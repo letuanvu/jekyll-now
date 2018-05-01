@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+Web developer
 
-### More Information
+### Language
 
-A place to include any other types of information that you'd like to include about yourself.
+Rails, Nodejs, Php, Native,..
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ltvu.59@gmail.com](mailto:ltvu.59@gmail.com)
