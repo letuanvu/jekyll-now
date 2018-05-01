@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About me
+title: Giới thiệu
 permalink: /about/
 ---
 
-Web developer
+Lập trình web
 
-### Language
+### Ngôn ngữ
 
 Rails, Nodejs, Php, Native,..
 
-### Contact me
+### Liên lạc
 
 [ltvu.59@gmail.com](mailto:ltvu.59@gmail.com)
